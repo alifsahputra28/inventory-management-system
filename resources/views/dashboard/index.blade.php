@@ -14,7 +14,7 @@
 @endsection
 
 @section('content')
-<header class="page-header page-header-dark bg-gradient-primary-to-secondary pb-10">
+<header class="page-header page-header-dark bg-wireframe-soft pb-10">
     <div class="container-xl px-4">
         <div class="page-header-content pt-4">
             <div class="row align-items-center justify-content-between">
@@ -41,7 +41,7 @@
     <!-- Example Colored Cards for Dashboard Demo -->
     <div class="row">
         <div class="col-lg-6 col-xl-3 mb-4">
-            <div class="card bg-primary text-white h-100">
+            <div class="card bg-wireframe text-white h-100">
                 <div class="card-body">
                     <div class="d-flex justify-content-between align-items-center">
                         <div class="me-3">
@@ -58,7 +58,7 @@
             </div>
         </div>
         <div class="col-lg-6 col-xl-3 mb-4">
-            <div class="card bg-warning text-white h-100">
+            <div class="card bg-wireframe text-white h-100">
                 <div class="card-body">
                     <div class="d-flex justify-content-between align-items-center">
                         <div class="me-3">
@@ -75,7 +75,7 @@
             </div>
         </div>
         <div class="col-lg-6 col-xl-3 mb-4">
-            <div class="card bg-success text-white h-100">
+            <div class="card bg-wireframe text-white h-100">
                 <div class="card-body">
                     <div class="d-flex justify-content-between align-items-center">
                         <div class="me-3">
@@ -92,7 +92,7 @@
             </div>
         </div>
         <div class="col-lg-6 col-xl-3 mb-4">
-            <div class="card bg-danger text-white h-100">
+            <div class="card bg-wireframe text-white h-100">
                 <div class="card-body">
                     <div class="d-flex justify-content-between align-items-center">
                         <div class="me-3">
